@@ -1,4 +1,4 @@
-    IMAGE FILTER
+    Photo Editing Web APP
 
 video-demo:
 
